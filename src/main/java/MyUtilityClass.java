@@ -1,6 +1,6 @@
 public final class MyUtilityClass {
 
-  final static MAXIMUM = 3000;
+  final static int MAXIMUM = 3000;
   
   private MyUtilityClass() {
   }
